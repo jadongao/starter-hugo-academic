@@ -33,11 +33,13 @@ interests:
 
 # High School to show in About widget
 High School:
+  courses:
+    - course: High School
     - institution: Shanghai Starriver Bilingual School
       year: 2020-2024
       
 # Education to show in About widget
-Colleges Course:
+Education:
   courses:
     - course: High School
       institution: Shanghai Starriver Bilingual School
