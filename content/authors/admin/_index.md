@@ -26,11 +26,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Physics, especially like to ponder about hard problems
-  - Favorite physicist (weird) -> Richard Feynman.
-  - Favorite sport(s) -> Basketball & soccer (Lebron & Messi the GOATs)
-  - Favorite movie -> Interstellar (best sci-fi film ever)
-  - Favorite TV show -> Peaky Blinders
+  - Physics
+  - Favorite physicist -> Richard Feynman
+  - Favorite sports -> Basketball & soccer
+  - Favorite movie -> Interstellar
   
 # Education to show in About widget
 Education:
@@ -38,6 +37,12 @@ Education:
     - course: High School
       institution: Shanghai Starriver Bilingual School
       year: 2020-2024
+    - course: Multivariable Calculus
+      institution: Harvard Extension School
+      year: 2023
+    - course: Machine Learning (Stanford University)
+      institution: Coursera.org
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
