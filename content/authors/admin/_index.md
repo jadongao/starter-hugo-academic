@@ -31,8 +31,13 @@ interests:
   - literature
   - Artificial Intelligence
 
+# High School to show in About widget
+High School:
+    - institution: Shanghai Starriver Bilingual School
+      year: 2020-2024
+      
 # Education to show in About widget
-education:
+Colleges Course:
   courses:
     - course: High School
       institution: Shanghai Starriver Bilingual School
