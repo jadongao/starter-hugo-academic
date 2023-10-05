@@ -27,10 +27,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Physics, especially like to ponder about hard problems
-  - Favorite physicist (weird): Richard Feynman.
-  - Favorite sport(s): Basketball & soccer (Lebron & Messi the GOATs)
-  - Favorite movie: Interstellar (best sci-fi film ever)
-  - Favorite TV show: Peaky Blinders
+  - Favorite physicist (weird) -> Richard Feynman.
+  - Favorite sport(s) -> Basketball & soccer (Lebron & Messi the GOATs)
+  - Favorite movie -> Interstellar (best sci-fi film ever)
+  - Favorite TV show -> Peaky Blinders
   
 # Education to show in About widget
 Education:
