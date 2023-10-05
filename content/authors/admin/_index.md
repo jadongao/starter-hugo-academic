@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jadon Gao 高铭骏
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Mingjun
+last_name: Gao
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: high-school student;
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SSBS
+    url: https://www.ssbs.sh.cn/siteEnIndex.action
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Jadon, and I'm a high school student in Shanghai, China. Academically, I love learning physics and especially like to ponder about hard problems. I also like to read random books and articles that I find on a bookshelf or the internet. These may contain topics such as AI (I'm rather scared of it), philosophy, and literature (currently reading works by Raymond Carver, who doesn't like simple stories?).
 {style="text-align: justify;"}
