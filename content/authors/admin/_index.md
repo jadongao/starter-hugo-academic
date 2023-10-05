@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Secondary School
+    - course: High School
       institution: Shanghai Starriver Bilingual School
       year: 2020-2024
     - course: Multivariable Calculus
