@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: high-school student;
+role: high-school student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,22 +26,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
+  - Physics
+  - Philosophy
+  - literature
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Secondary School
+      institution: Shanghai Starriver Bilingual School
+      year: 2020-2024
+    - course: Multivariable Calculus
+      institution: Harvard Extension School
+      year: 2023
+    - course: Machine Learning (Stanford University)
+      institution: Coursera.org
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
