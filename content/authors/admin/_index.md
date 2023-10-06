@@ -27,9 +27,10 @@ bio: I'm a high school student interested in physics education.
 # Interests to show in About widget
 interests:
   - Physics
-  - Favorite physicist -> Richard Feynman
-  - Favorite sports -> Basketball & soccer
-  - Favorite movie -> Interstellar
+  - "Favorite physicist: Richard Feynman"
+  - "Favorite sports: Basketball🏀 & Soccer⚽(Lebron & Messi🐐)"
+  - "Favorite movie: Interstellar (best sci-fi film ever)"
+
   
 # Education to show in About widget
 Education:

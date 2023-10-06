@@ -7,7 +7,7 @@
 # URL: ""
 # image:      "/img/The Story of Nothing.jpg"
 
-title: TEDx SSBS Youth - The Story of Nothing
+title: "TEDx SSBS Youth : The Story of Nothing"
 subtitle:   "TEDx SSBS Youth"
 date: 2023-07-02
 math: true

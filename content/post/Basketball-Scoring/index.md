@@ -7,16 +7,23 @@
 # URL: ""
 # image:      "/img/"
 
-title: Basketball Scoring iOS App
+title: Basketball Shooting Recognition and Scoring Application 
 date: 2020-02-02
 math: true
 image:
   placement: 2
   caption: ''
 ---
-> 篮球投篮识别及计分应用
 
-篮球爱好者日常训练需要用到投篮命中率统计工具，但当前都只能自己手工记录，非常不方便。本项目一款可以运行在手机上的投篮识别软件，篮球爱好者随身携带手机、三脚架，放在篮球场馆侧方，自动识别投篮并计分。经过大量的实验和优化之后可以基本准确地自动识别投篮的进与不进。对于想要提高自己能力的篮球爱好者来说非常方便，更高效地使用数据来改善篮球爱好者们的篮球水平。
+Abstract: Basketball players need daily training, but currently they can only manually record the 
+score themselves, which is very inconvenient. This project is a shooting recognition software 
+that can run on mobile phones. Basketball players carry their phones and tripods with them 
+and place them on the side of the basketball court to automatically recognize and score
+shooting. After extensive experiments and optimization, it is possible to automatically and 
+accurately identify whether a shot is scored or not. For basketball player who want to improve 
+their abilities, it is very convenient to use data more efficiently to improve their basketball 
+skills.
+Keywords: Basketball Shooting Recognition, Scoring, iOS, Opencv
 
 <!--more-->
 
