@@ -19,7 +19,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -40,7 +40,8 @@ sections:
       view: compact
       columns: '2'
 
-  - block: Accomplishments
+  - block: accomplishments
+    id: tutorial
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Tutorial'
@@ -88,6 +89,7 @@ sections:
         folders:
           - publication
         featured_only: true
+      count: 3
     design:
       columns: '2'
       view: card
