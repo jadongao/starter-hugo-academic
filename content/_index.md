@@ -40,46 +40,123 @@ sections:
       view: compact
       columns: '2'
 
-  - block: accomplishments
+  # - block: accomplishments  
+  #   #id: tutorial  用来做在线课程学习的成绩证明？
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Tutorial'
+  #     subtitle:
+  #     # Date format: https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: https://www.coursera.org
+  #         date_end: ''
+  #         date_start: '2021-01-25'
+  #         description: In Autumn 2022, I was the TA for Stanford's introductory quantum field theory class, taught by     [schoolhouse Tutor Jadon](https://schoolhouse.world/u/155443)
+  #         organization: Coursera
+  #         organization_url: https://www.coursera.org
+  #         title: Neural Networks and Deep Learning
+  #         url: ''
+          
+  #       - certificate_url: https://www.edx.org
+  #         date_end: ''
+  #         date_start: '2021-01-01'
+  #         description: Formulated informed blockchain models, hypotheses, and use cases.
+  #         organization: edX
+  #         organization_url: https://www.edx.org
+  #         title: Blockchain Fundamentals
+  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #       - certificate_url: https://www.datacamp.com
+  #         date_end: '2020-12-21'
+  #         date_start: '2020-07-01'
+  #         description: ''
+  #         organization: DataCamp
+  #         organization_url: https://www.datacamp.com
+  #         title: 'Object-Oriented Programming in R'
+  #         url: ''
+  #   design:
+  #     columns: '2'
+
+  - block: experience
     id: tutorial
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Tutorial'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
+      title: Tutorial
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        - title: Physics
+          company: Schoolhouse
+          company_url: ''
+          company_logo: schoolhouse
+          location: 
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Physics
+          company: Schoolhouse
+          company_url: ''
+          company_logo: schoolhouse
+          location: 
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: |2-
+              In Autumn 2022, I was the TA for Stanford's introductory quantum field theory class, taught by [Prof. Bernhard Mistlberger](https://sites.google.com/view/bernhardmistlberger/start). We overhauled the course and produced new problem sets, which we believe strike a good balance between traditional particle physics applications, and connections to other fields. I also taught weekly sections which laid out the big picture and showed tricks for doing the problems efficiently. 
+              - Problem sets: [1](), 
+              - Very rough section notes: [1](),[Final exam]()
+          
     design:
       columns: '2'
+      
+  - block: markdown
+    #id: tutorial
+    content:
+      title: Tutorial
+      subtitle: 
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      text: |2-
+          In Autumn 2022, I was the TA for Stanford's introductory quantum field theory class, taught by [Prof. Bernhard Mistlberger](https://sites.google.com/view/bernhardmistlberger/start). We overhauled the course and produced new problem sets, which we believe strike a good balance between traditional particle physics applications, and connections to other fields. I also taught weekly sections which laid out the big picture and showed tricks for doing the problems efficiently. 
+          - Problem sets: [1](), 
+          - Very rough section notes: [1](),[Final exam]()
+    design:
+      columns: '2'
+
+
+  # - block: features
+  #   content:
+  #     title: My Interests
+  #     subtitle: Section subtitle
+  #     text: Section text
+  #     items:
+  #       - name: R
+  #         description: 90%
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: Statistics
+  #         description: 100%
+  #         icon: org-x
+  #         icon_pack: custom
+  #       - name: Photography
+  #         description: 10%
+  #         icon: 🦄
+  #         icon_pack: emoji
+  #         link: https://schoolhouse.world/u/155443
 
   - block: collection
     id: featured
