@@ -15,6 +15,47 @@ image:
   caption: ''
 ---
 
+---
+title: 'Perturbation Theory : Hydrogen and Alkali Atoms in Constant E-Field'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - admin
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
+date: '2023-06-01T00:00:00Z'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2023-06-01T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: 
+publication_short: 
+
+abstract: Perturbation has been widely used as a tool to approximate complex quantum systems that are slight deviations from well-known systems. Among many widely studied potentials, one perturbation is the effect of applying an electric field onto an atom known as the Stark effect. This paper contributes a qualitative summary of the graphical solution of the linear Stark effect in Hydrogen atoms of n=2.
+
+# Summary. An optional shortened abstract.
+summary: 
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+
 Abstract: Basketball players need daily training, but currently they can only manually record the 
 score themselves, which is very inconvenient. This project is a shooting recognition software 
 that can run on mobile phones. Basketball players carry their phones and tripods with them 

@@ -9,6 +9,7 @@
 
 title: Basketball Shooting Recognition and Scoring Application 
 date: 2020-02-02
+lastmod: 2020-02-03
 math: true
 image:
   placement: 2
