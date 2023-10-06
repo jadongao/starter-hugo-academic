@@ -95,47 +95,52 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Physics
+        - title: Calculus Group
           company: Schoolhouse
           company_url: ''
           company_logo: schoolhouse
-          location: 
-          date_start: '2021-01-01'
-          date_end: ''
+          location: LEARNERS  4 / 10， TOTAL SESSIONS  4
+          date_start: '2023-08-26'
+          date_end: '2023-09-16'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Physics
+              This group is for Calculus students to learn math together!
+              
+        - title: Competitive Physics Study Group
           company: Schoolhouse
           company_url: ''
           company_logo: schoolhouse
-          location: 
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: LEARNERS  9 / 12, TOTAL SESSIONS  12
+          date_start: '2023-07-18'
+          date_end: '2023-08-30'
           description: |2-
-              In Autumn 2022, I was the TA for Stanford's introductory quantum field theory class, taught by [Prof. Bernhard Mistlberger](https://sites.google.com/view/bernhardmistlberger/start). We overhauled the course and produced new problem sets, which we believe strike a good balance between traditional particle physics applications, and connections to other fields. I also taught weekly sections which laid out the big picture and showed tricks for doing the problems efficiently. 
-              - Problem sets: [1](), 
-              - Very rough section notes: [1](),[Final exam]()
+              The plan for now is to meet weekly and share problems we're working on. We can solve each other's confusions. Currently, there is a set of resources I found online which includes a complete set of problems that we may do over the week and discuss upon so we stay on the same track.
+        - title: AP Physics 1 All Covered
+          company: Schoolhouse
+          company_url: ''
+          company_logo: schoolhouse
+          location: LEARNERS  27 / 50， TOTAL SESSIONS  15
+          date_start: '2022-12-26'
+          date_end: '2023-02-18'
+          description: |2-
+              We'll go through the basic concepts of kinematics and techniques of solving this type of problem on the AP exam. Practice problems will be covered.
+              
           
     design:
       columns: '2'
       
-  - block: markdown
-    #id: tutorial
-    content:
-      title: Tutorial
-      subtitle: 
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      text: |2-
-          In Autumn 2022, I was the TA for Stanford's introductory quantum field theory class, taught by [Prof. Bernhard Mistlberger](https://sites.google.com/view/bernhardmistlberger/start). We overhauled the course and produced new problem sets, which we believe strike a good balance between traditional particle physics applications, and connections to other fields. I also taught weekly sections which laid out the big picture and showed tricks for doing the problems efficiently. 
-          - Problem sets: [1](), 
-          - Very rough section notes: [1](),[Final exam]()
-    design:
-      columns: '2'
+  # - block: markdown
+  #   #id: tutorial
+  #   content:
+  #     title: Tutorial
+  #     subtitle: 
+  #     # Date format: https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     text: |2-
+  #         In Autumn 2022, I was the TA for Stanford's introductory quantum field theory class, taught by [Prof. Bernhard Mistlberger](https://sites.google.com/view/bernhardmistlberger/start). We overhauled the course and produced new problem sets, which we believe strike a good balance between traditional particle physics applications, and connections to other fields. I also taught weekly sections which laid out the big picture and showed tricks for doing the problems efficiently. 
+  #         - Problem sets: [1](), 
+  #         - Very rough section notes: [1](),[Final exam]()
+  #   design:
+  #     columns: '2'
 
 
   # - block: features

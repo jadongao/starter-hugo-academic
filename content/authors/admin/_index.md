@@ -22,7 +22,7 @@ organizations:
     url: https://www.ssbs.sh.cn/siteEnIndex.action
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a high school student interested in physics education.
 
 # Interests to show in About widget
 interests:
@@ -88,5 +88,5 @@ email: ''
 highlight_name: true
 ---
 
-Hi! My name is Jadon, and I'm a high school student in Shanghai, China. Academically, I love learning physics and especially like to ponder about hard problems. I also like to read random books and articles that I find on a bookshelf or the internet. These may contain topics such as AI (I'm rather scared of it), philosophy, and literature (currently reading works by Raymond Carver, who doesn't like simple stories?).
+I'm a high school student in Shanghai, China. Academically, I love learning physics and especially like to ponder about hard problems. I also like to read random books and articles that I find on a bookshelf or the internet. These may contain topics such as AI (I'm rather scared of it), philosophy, and literature (currently reading works by Raymond Carver, who doesn't like simple stories?).
 {style="text-align: justify;"}
