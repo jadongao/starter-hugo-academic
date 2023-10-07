@@ -1,22 +1,5 @@
 ---
-# layout:     post 
-# title:      "篮球投篮识别及计分系统"
-# subtitle:   "basketball2020"
-# date:       2020-02-02
-# author:     "Jadon"
-# URL: ""
-# image:      "/img/"
-
-title: Basketball Shooting Recognition and Scoring Application 
-date: 2020-02-02
-math: true
-image:
-  placement: 2
-  caption: ''
----
-
----
-title: 'Perturbation Theory : Hydrogen and Alkali Atoms in Constant E-Field'
+title: 'Basketball Shooting Recognition and Scoring Application'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,14 +9,13 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2023-06-01T00:00:00Z'
+
+date: '2020-02-02T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-01T00:00:00Z'
+publishDate: '2020-02-02T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -44,29 +26,19 @@ publication_types: ['paper-conference']
 publication: 
 publication_short: 
 
-abstract: Perturbation has been widely used as a tool to approximate complex quantum systems that are slight deviations from well-known systems. Among many widely studied potentials, one perturbation is the effect of applying an electric field onto an atom known as the Stark effect. This paper contributes a qualitative summary of the graphical solution of the linear Stark effect in Hydrogen atoms of n=2.
+abstract: Basketball players need daily training, but currently they can only manually record the score themselves, which is very inconvenient. This project is a shooting recognition software that can run on mobile phones. Basketball players carry their phones and tripods with them and place them on the side of the basketball court to automatically recognize and score shooting. After extensive experiments and optimization, it is possible to automatically and accurately identify whether a shot is scored or not. For basketball player who want to improve their abilities, it is very convenient to use data more efficiently to improve their basketball skills. 
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags: [Basketball Shooting Recognition, Scoring, iOS, Opencv]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 
-Abstract: Basketball players need daily training, but currently they can only manually record the 
-score themselves, which is very inconvenient. This project is a shooting recognition software 
-that can run on mobile phones. Basketball players carry their phones and tripods with them 
-and place them on the side of the basketball court to automatically recognize and score
-shooting. After extensive experiments and optimization, it is possible to automatically and 
-accurately identify whether a shot is scored or not. For basketball player who want to improve 
-their abilities, it is very convenient to use data more efficiently to improve their basketball 
-skills.
-Keywords: Basketball Shooting Recognition, Scoring, iOS, Opencv
-
-<!--more-->
+---
 
 问题：
 　　　我们国家高级别篮球比赛会有专业分析人士分析比赛，但对于大量的篮球爱好者，现在来说却没有一款适用于日常训练用的软件系统。其中关键一项是统计球员们命中率，没有易用的工具，就无法方便地提升篮球爱好者的能力且给予球员们一个反馈。
