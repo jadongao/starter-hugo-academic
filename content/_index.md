@@ -172,18 +172,18 @@ sections:
   #         icon_pack: emoji
   #         link: https://schoolhouse.world/u/155443
 
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-      count: 3
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #     count: 3
+  #   design:
+  #     columns: '2'
+  #     view: compact
 
   - block: markdown
     content:
