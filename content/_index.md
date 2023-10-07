@@ -200,7 +200,7 @@ sections:
 
   - block: markdown
     content:
-      title: School Team & Club
+      title: Gallery
       subtitle: ''
       text: |-
         {{< gallery album="club" >}}
