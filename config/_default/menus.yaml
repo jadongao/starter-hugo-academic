@@ -13,8 +13,8 @@ main:
   - name: Tutorial
     url: '#tutorial'
     weight: 30
-  - name: Publications
-    url: 'publication'
+  - name: Team&Club
+    url: '#club'
     weight: 40
   - name: Contact
     url: '#contact'

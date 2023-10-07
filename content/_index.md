@@ -186,7 +186,7 @@ sections:
   #     view: compact
 
   - block: collection
-    id: Club
+    id: club
     content:
       title: School Team & Club
       filters:
