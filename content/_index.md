@@ -185,6 +185,19 @@ sections:
   #     columns: '2'
   #     view: compact
 
+  - block: collection
+    id: Club
+    content:
+      title: School Team & Club
+      filters:
+        folders:
+          - project
+        featured_only: true
+      count: 3
+    design:
+      columns: '2'
+      view: showcase
+
   - block: markdown
     content:
       title: School Team & Club
