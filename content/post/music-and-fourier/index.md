@@ -10,6 +10,7 @@
 title: Musical chord and the Fourier Transform
 date: 2023-06-24
 math: true
+reading_time: false
 image:
   placement: 2
   caption: ''

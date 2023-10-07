@@ -11,6 +11,7 @@ title: Basketball Shooting Recognition and Scoring Application
 date: 2020-02-02
 lastmod: 2020-02-03
 math: true
+reading_time: false
 image:
   placement: 2
   caption: ''

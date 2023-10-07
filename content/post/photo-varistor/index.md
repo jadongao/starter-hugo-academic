@@ -2,6 +2,7 @@
 title: "Research on Photo-Varistor Based on Lateral Bipolar Photoresistance Effect"
 date: 2023-06-01
 math: true
+reading_time: false
 image:
   placement: 2
   caption: ''
