@@ -19,7 +19,7 @@ role: high-school student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: SSBS
-    url: https://www.ssbs.sh.cn/siteEnIndex.action?method=list&topNav=243
+    url: https://www.ssbs.sh.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a high school student interested in physics education.
