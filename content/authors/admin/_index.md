@@ -35,15 +35,23 @@ interests:
 # Education to show in About widget
 Education:
   courses:
-    - course: High School
+    - course: High School Course and 13 AP Courses
       institution: Shanghai Starriver Bilingual School
       year: 2020-2024
-    - course: Multivariable Calculus
+    - course: Multivariable Calculus (Online)
       institution: Harvard Extension School
       year: 2023
-    - course: Machine Learning (Stanford University)
-      institution: Coursera.org
+    - course: Machine Learning (Online)
+      institution: Stanford University @Coursera
       year: 2022
+    - course: Linear Algebra (Online)
+      institution: Georgia Technology @ Edx
+      year: 2023
+    - course: Quantum Mechanics 8.04 (Online)
+      institution: MIT Open Courseware
+      year: 2022
+ 
+                      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
