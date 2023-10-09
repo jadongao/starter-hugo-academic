@@ -15,9 +15,10 @@ math: true
 image:
   placement: 2
   caption: ''
+#<iframe src="https://www.youtube.com/embed/G4UNrR3NzR4" frameborder="0" allowfullscreen></iframe>
+#[![IMAGE ALT TEXT](http://img.youtube.com/vi/G4UNrR3NzR4/0.jpg)](https://www.youtube.com/embed/G4UNrR3NzR4 "CameraMaster")
 ---
-
-<iframe width="373" height="210" src="https://www.youtube.com/embed/G4UNrR3NzR4" frameborder="0" allowfullscreen></iframe>
+<iframe width=320 height=220 src="https://www.youtube.com/embed/G4UNrR3NzR4" frameborder="0" allowfullscreen></iframe>
 
 **What makes up nothing?**
 What makes up the empty space outside of the Earth, above the atmosphere, and fills most of the universe? For centuries, this problem has been puzzling physicists, confronting them to develop more and more satisfying theories to describe reality.  <!--more-->
