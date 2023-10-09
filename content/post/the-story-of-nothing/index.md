@@ -17,7 +17,7 @@ image:
   caption: ''
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G4UNrR3NzR4" frameborder="0" allowfullscreen></iframe>
+<iframe width="373" height="210" src="https://www.youtube.com/embed/G4UNrR3NzR4" frameborder="0" allowfullscreen></iframe>
 
 **What makes up nothing?**
 What makes up the empty space outside of the Earth, above the atmosphere, and fills most of the universe? For centuries, this problem has been puzzling physicists, confronting them to develop more and more satisfying theories to describe reality.  <!--more-->
