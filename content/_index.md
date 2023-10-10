@@ -239,6 +239,18 @@ sections:
     #   # For Showcase view, flip alternate rows?
     #   flip_alt_rows: false
 
+  - block: collection
+    id: family
+    content:
+      title: Family
+      filters:
+        folders:
+          - project
+        tag: family
+      #count: 3
+    design:
+      columns: '2'
+      view: showcase
 
   - block: markdown
     content:
