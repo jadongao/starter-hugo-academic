@@ -38,7 +38,7 @@ Education:
     - course: High School Course and 13 AP Courses
       institution: Shanghai Starriver Bilingual School
       year: 2020-2024
-    - course: Online College-level Courses\n (Multivariable Calculus, Machine Learning, Linear Algebra, Quantum Mechanics 8.04)
+    - course: 'Online College-level Courses (Multivariable Calculus, Machine Learning, Linear Algebra, Quantum Mechanics 8.04)'
       institution: Harvard Extension School, Stanford University@Coursera, Georgia Technology@edX, MIT Open Courseware
       year: 2022-2023
     - course: Feynman’s Physics Lecture
