@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jadon Gao 高铭骏
+title: Mingjun Gao (Jadon)
 
 # Full name (for SEO)
 first_name: Mingjun
