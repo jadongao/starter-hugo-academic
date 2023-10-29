@@ -12,6 +12,16 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+
+  - block: markdown
+    content:
+      title: 
+      subtitle: ''
+      text: |-
+        {{< gallery album="activity" >}}
+    design:
+      columns: '1'
+
   - block: collection
     id: posts
     content:
