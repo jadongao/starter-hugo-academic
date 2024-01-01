@@ -3,7 +3,7 @@ title: School Varsity Football Team
 summary: 🥇🏆 Played 9+ years; Midfield Organizer and Left Winger
 tags:
   - team
-date: '2022-04-27T00:00:00Z'
+date: '2023-03-27T00:00:00Z'
 featured: true
 
 # Optional external URL for project (replaces project detail page).
