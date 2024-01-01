@@ -1,6 +1,6 @@
 ---
-title: Drama Club
-summary: Play as the repairer in the drama “Cut”. When On the stage and the spotlight, I felt from Panic to silent to the enjoy of the process.
+title: Actor, Drama Club
+summary: Play Nick in the play “Cut”; enjoyed every second on set communicating & coming up with creative ways to perform the script
 tags:
   - club
 date: '2022-02-27T00:00:00Z'

@@ -1,6 +1,6 @@
 ---
-title: Football School Team
-summary: 🥇🏆 Served as midfield organizer and left winger
+title: School Varsity Football Team
+summary: 🥇🏆 Played 9+ years; Midfield Organizer and Left Winger
 tags:
   - team
 date: '2022-04-27T00:00:00Z'

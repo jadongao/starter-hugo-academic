@@ -1,6 +1,6 @@
 ---
-title: City Explore Club
-summary: The co-founder of the club, expand the club members from 2 to 16. Grade 10-12, September 2021-present
+title: Co-Founder, Urban Culture Club
+summary: Interviewed Shanghai store owners to voice out their difficulties during the COVID lockdown; organized weekly city walks; grew from 2 to 16 members
 tags:
   - club
 date: '2022-02-27T00:00:00Z'
