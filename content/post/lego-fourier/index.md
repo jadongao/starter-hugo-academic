@@ -12,7 +12,7 @@ date: 2022-09-30
 math: true
 reading_time: false
 tags:
-- scicraft
+- maker
 image:
   placement: 2
   caption: ''
