@@ -53,7 +53,7 @@ sections:
   - block: collection
     id: scicraft
     content:
-      title: "SciCraft" Channel
+      title: SciCraft Channel
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
