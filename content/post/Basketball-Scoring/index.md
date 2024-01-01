@@ -12,6 +12,8 @@ date: 2020-02-02
 lastmod: 2020-02-03
 math: true
 reading_time: false
+tags:
+- maker
 image:
   placement: 2
   caption: ''

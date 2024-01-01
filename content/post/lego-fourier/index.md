@@ -11,6 +11,8 @@ title: 'LEGO Fourier Analyzer'
 date: 2022-09-30
 math: true
 reading_time: false
+tags:
+- maker
 image:
   placement: 2
   caption: ''

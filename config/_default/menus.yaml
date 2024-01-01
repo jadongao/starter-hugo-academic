@@ -14,6 +14,11 @@ main:
     url: '#scicraft'
     weight: 20
 
+  - name: Technovator
+    url: '#maker'
+    weight: 25
+    tags:
+
   - name: Tutorial
     url: '#tutorial'
     weight: 30
