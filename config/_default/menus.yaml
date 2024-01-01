@@ -35,7 +35,7 @@ main:
     url: '#family'
     weight: 50
 
-  - name: Liuqin BambooCarving
+  - name: BambooCarving
     url: 'liuqin'
     weight: 55
 
