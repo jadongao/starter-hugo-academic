@@ -64,7 +64,7 @@ sections:
           - post
         author: ""
         category: ""
-        tag: 
+        tag: scicraft
         exclude_featured: false
         exclude_future: false
         exclude_past: false

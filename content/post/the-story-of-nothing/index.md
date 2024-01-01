@@ -12,6 +12,8 @@ subtitle:   "TEDx SSBS Youth"
 date: 2023-07-02
 reading_time: false
 math: true
+tags:
+- scicraft
 image:
   placement: 2
   caption: ''
