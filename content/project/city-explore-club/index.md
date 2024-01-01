@@ -2,7 +2,7 @@
 title: City Explore Club
 summary: The co-founder of the club, expand the club members from 2 to 16. Grade 10-12, September 2021-present
 tags:
-  - Deep Learning
+  - club
 date: '2022-02-27T00:00:00Z'
 featured: true
 

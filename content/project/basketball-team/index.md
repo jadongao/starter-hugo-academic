@@ -2,7 +2,7 @@
 title: Basketball School Team
 summary: 🥈🥈Serve as point guard and captain on the field
 tags:
-  - Deep Learning
+  - team
 date: '2022-04-27T00:00:00Z'
 featured: true
 

@@ -7,9 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Portfolio
-    url: 'post/the-story-of-nothing'
-    weight: 18
+  # - name: Portfolio
+  #   url: 'post/the-story-of-nothing'
+  #   weight: 18
 
   - name: SciCraft
     url: '#scicraft'
@@ -34,6 +34,11 @@ main:
   - name: Family
     url: '#family'
     weight: 50
+
+  - name: Liuqin BambooCarving
+    url: 'liuqin'
+    weight: 55
+
   - name: Contact
     url: '#contact'
     weight: 60

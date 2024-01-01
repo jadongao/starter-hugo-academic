@@ -2,7 +2,7 @@
 title: Drama Club
 summary: Play as the repairer in the drama “Cut”. When On the stage and the spotlight, I felt from Panic to silent to the enjoy of the process.
 tags:
-  - Deep Learning
+  - club
 date: '2022-02-27T00:00:00Z'
 featured: true
 

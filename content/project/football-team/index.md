@@ -2,7 +2,7 @@
 title: Football School Team
 summary: 🥇🏆 Served as midfield organizer and left winger
 tags:
-  - Deep Learning
+  - team
 date: '2022-04-27T00:00:00Z'
 featured: true
 
