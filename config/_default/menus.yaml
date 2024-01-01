@@ -8,9 +8,8 @@ main:
     url: '#about'
     weight: 10
   - name: Portfolio
-    url: 'post'
-    weight: 18   
-    tag: research
+    url: 'post/the-story-of-nothing'
+    weight: 18
 
   - name: SciCraft
     url: '#scicraft'
