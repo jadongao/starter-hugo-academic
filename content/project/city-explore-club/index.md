@@ -3,7 +3,7 @@ title: Co-Founder, Urban Culture Club
 summary: Interviewed Shanghai store owners to voice out their difficulties during the COVID lockdown; organized weekly city walks; grew from 2 to 16 members
 tags:
   - club
-date: '2022-02-27T00:00:00Z'
+date: '2023-02-27T00:00:00Z'
 featured: true
 
 # Optional external URL for project (replaces project detail page).

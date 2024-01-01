@@ -3,7 +3,7 @@ title: Point Guard/Vice-Captain, School Varsity Basketball Team
 summary: 🥈🥈Played 8+ years; assisted coach's training; stayed after each training to help freshman players enhance their skills; made lifelong friends
 tags:
   - team
-date: '2022-04-27T00:00:00Z'
+date: '2022-05-27T00:00:00Z'
 featured: true
 
 # Optional external URL for project (replaces project detail page).
