@@ -7,9 +7,13 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Portfolio
-    url: 'posts'
+  # - name: Portfolio
+  #   url: 'post'
+  #   weight: 20   
+  - name: SciCraft
+    url: '#scicraft'
     weight: 20
+
   - name: Tutorial
     url: '#tutorial'
     weight: 30
