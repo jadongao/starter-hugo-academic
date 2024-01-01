@@ -11,6 +11,8 @@ title: 'Perturbation Theory : Hydrogen and Alkali Atoms in Constant E-Field'
 date: 2023-06-01
 math: true
 reading_time: false
+tags:
+- research
 image:
   placement: 2
   caption: ''

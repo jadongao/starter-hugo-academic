@@ -19,6 +19,11 @@ main:
     weight: 25
     tags:
 
+  - name: Research
+    url: '#research'
+    weight: 27
+    tags: 
+
   - name: Tutorial
     url: '#tutorial'
     weight: 30
