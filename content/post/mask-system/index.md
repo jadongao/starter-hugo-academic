@@ -23,13 +23,33 @@ image:
 
 Masks have become the most basic health protection barrier for people during the epidemic, but wearing masks for a long time often leads to difficulty breathing and a feeling of suffocation. The device designed in this project uses a fan to reduce the difference in air pressure between the inside and outside of the mask to improve the smoothness of inhalation, significantly improving the suction resistance of the mask while not affecting its original exhalation resistance. The device is small in size and can be carried around, powered by a power bank. All materials can be obtained from the market, and the cost is low, making it more suitable for ordinary people to use.
 
+The device designed in this project reduces the suction pressure difference from 30Pa to 10Pa (with the fan continuously on) and 20Pa (with the fan automatically on and off), significantly improving the suction resistance of the mask. At the same time, by turning off the fan during exhalation, the exhalation resistance can be made equivalent to the original mask, that is, the exhalation resistance of the mask will not be changed.
+
 # 2.How to characterize / categorize this work?
 
 Mask, KN95, pressure difference, Respiratory Resistance
 
 # 3.Briefly description of this work
 
-<div align=center> <img src='./overview-mask.jpg' width = 80%/> </div>
+The device designed in this project consists of three parts: a mask, an airtight box with a fan, and a microcontroller with a sensor. Please refer to the appendix for a detailed list of accessories and costs.
+
+<div align=center> <img src='./overview-mask.jpg' width = 50%/> </div>
+
+Step 1: Purchase a mask with an exhaust valve (1) from the pharmacy, remove the exhaust valve, and install the 3D printed air supply pipe connector (3-1).
+
+<div align=center> <img src='./joint-mask.jpg' width = 30%/> </div>
+
+Step 2: Install the turbine fan (5) into the 3D printed airtight box (4) and cover it with a filter (6). Connect the power cord of the fan to the battery (7), and connect the exhaust port of the fan to the air supply pipe connector (3-2).
+<div align=center> <img src='./box-with-filter.jpg' width = 30%/> </div>
+<div align=center> <img src='./box-with-battery.jpg' width = 30%/> </div>
+
+Step 3: Connect the mask (1) and the airtight box (4) with a fan and filter using the air supply pipe (2). Turn on the power and the fan starts supplying air and pressurizing the mask.
+
+<div align=center> <img src='./featured.jpg' width = 40%/> </div>
+
+Step 4: Keeping the fan on all the time makes the device very power consuming, so it is necessary to detect when it is inhaling and when it is exhaling to automatically control the switch. The solution is to add a micro pressure difference sensor (9) to sense the small pressure difference generated during breathing, and then use a microcontroller (10) to read the pressure difference. If it is a negative pressure value, it is judged as inhalation, and if it is a positive pressure value, it is judged as exhalation. Then, the relay (11) is used to control the switch of the fan.
+
+<div align=center> <img src='./sensor-and-arduino.jpg' width = 30%/> </div>
 
 # 4.How do I make it?
 
