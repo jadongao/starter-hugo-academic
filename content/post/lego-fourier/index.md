@@ -139,7 +139,7 @@ When making this machine, I also traced the history of Fourier Analysis. I had a
 </table>
 
 
-# 6.What's the most meaningful thing you've made?
+# 6.What's the most meaningful thing of this work?
 
 This LEGO machine can correspond one-to-one with mathematical formulas, which visualizes mathematical concepts and helps me understand them.
 
