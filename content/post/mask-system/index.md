@@ -90,7 +90,7 @@ In many masks with good filtering performance (such as the KN95 mask), an exhaus
 
 I first checked the instruments used for assisted respiration. 1) Medical ventilators are expensive and require specialized medical personnel to operate them; 2) Household oxygen supply machines, with lower prices, are used for weak individuals to increase oxygen at home and have little to do with assisted breathing; 3) Household respirators, usually used to help snorers fall asleep, are more expensive. The most important thing is that these instruments need to be placed in a fixed position and cannot be used on the go. In addition, it was found that some specialized masks overseas, such as Dyson masks, have a transparent mask on the face, fans on both sides, and are fixed to the head with headbands. This specialized mask is still in the patent application stage and can only be used in professional fields, making it difficult for ordinary people to afford.
 
-<div align=center> <img src='./other-device.jpg' width = 40%/> </div>
+<div align=center> <img src='./other-device.jpg' width = 55%/> </div>
 
 I hope to design a low resistance mask that can be carried around. Low cost, suitable for ordinary people rather than specific patients. The idea is to use a fan to filter (pressurize) the external air and squeeze it into the inside of the mask, reducing the pressure difference between the inside and outside of the mask to improve the smoothness of inhalation.
 
