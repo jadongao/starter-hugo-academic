@@ -94,7 +94,7 @@ From the pressure difference data, it can be seen that the better the protective
 
 # 6.What's the most meaningful thing of this work?
 
-The device is small in size and can be carried around; Using common materials in the market, with a total cost of less than 100 Chines-Yuan; The battery uses a common 5V power bank, which is easy to obtain. More suitable for ordinary people to use.
+The mask is of moderate size, making it possible to carry it with you; Using common materials in the market, with a total cost of less than 100 Chinese-Yuan; The battery uses a common 5V power bank, which is easy to obtain. So this mask is suitable for ordinary people to use.
 
 I encountered several difficulties during the design process:
 
