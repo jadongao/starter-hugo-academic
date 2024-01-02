@@ -89,7 +89,7 @@ Masks purchased from pharmacies usually indicate respiratory resistance, which i
 
 From the pressure difference data, it can be seen that the better the protective performance of the mask, the more difficult it will be to breathe. The direct way to relieve suffocation after wearing a mask is to reduce respiratory resistance and the pressure difference inside and outside the mask.
 
-# 6.What's the most meaningful thing you've made?
+# 6.What's the most meaningful thing of this work?
 
 
 # 7.Additional Information
