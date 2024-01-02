@@ -112,7 +112,10 @@ There are still many shortcomings in this mask, such as the automatic control ju
 
 # 7.Additional Information
 
-## Measurement of Pressure Difference of Mask
+## 7.1 BOM
+<div align=center> <img src='./BOM.jpg' width = 45%/> </div>
+
+## 7.2 Measurement of Pressure Difference of Mask
 
 <div align=center> <img src='./AS510.jpg' width = 10%/> </div>
 
