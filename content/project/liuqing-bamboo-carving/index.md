@@ -7,7 +7,7 @@ date: '2022-03-27T00:00:00Z'
 featured: 
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.youtube.com/watch?v=ufn-kjcsufk'
+external_link: #'https://www.youtube.com/watch?v=ufn-kjcsufk'
 
 image:
   caption: 
