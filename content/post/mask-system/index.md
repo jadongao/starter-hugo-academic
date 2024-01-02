@@ -71,7 +71,7 @@ The maximum expiratory pressure difference is about 90Pa, and the minimum inspir
 
 It can be seen that the absolute value of the suction pressure difference in Test case 1 has been reduced by 20Pa, which significantly improves the suction resistance. But the absolute value of the exhalation pressure difference increased by 50Pa, and the exhalation resistance increased.
 
-Test 4: The Arduino microcontroller automatically switches on and off the fan during breathing, and AS510 tests the pressure difference between the inside and outside of the mask during breathing
+Test case 4: The Arduino microcontroller automatically switches on and off the fan during breathing, and AS510 tests the pressure difference between the inside and outside of the mask during breathing
 <div align=center> <img src='./test-case-4.jpg' width = 50%/ height = 20%>> </div>
 
 After controlling the fan, when exhaling, the fan was turned off. Compared to Test case 3 (with the fan on), the maximum pressure difference decreased from 90Pa to about 50Pa, and the exhalation resistance decreased, which was basically equivalent to Test case 1 (without the fan);
@@ -96,16 +96,12 @@ From the pressure difference data, it can be seen that the better the protective
 
 ## Measurement of Pressure Difference of Mask
 
-<div align=center> <img src='./AS510.jpg' width = 80%/> </div>
+<div align=center> <img src='./AS510.jpg' width = 10%/> </div>
 
 The AS510 handheld micro pressure gauge (priced around 150 yuan on Taobao) has a measurement range of 0-100hPa and a measurement accuracy of ± 0.03hPa.
 
 Measurement method:
-
 1) Turn on the power of AS510 and reset it to zero
-
-2) Insert a trachea of AS510 into the mask, close to the mouth and nose;
-
+2) Insert a trachea of AS510 into the mask, close to the mouth and nose
 3) Place the other trachea outside the mask
-
 4) The display screen of AS510 shows the pressure difference between the inside and outside of the mask
