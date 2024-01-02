@@ -1,6 +1,6 @@
 ---
 title: Liuqing Bamboo Carving
-summary: Bai shifeng (my great grandfather) founded the Bai School of Liuqing Bamboo Carving. Liuqing bamboo carving uses a knife as a pen to draw on the surface of bamboo. Whether or not I am a member of this family, I want to showcase this art to more people.
+summary: Bai shifeng (my great grandfather) founded the Bai School of Liuqing Bamboo Carving. Liuqing bamboo carving uses a knife as a pen to draw patterns on the surface of bamboo. Whether or not I am a member of this family, I want to showcase this art to more people.
 tags:
   - family
 date: '2022-03-27T00:00:00Z'
