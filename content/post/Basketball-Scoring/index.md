@@ -204,6 +204,8 @@ Draw the m value of 100 frames as a graph line, and it can be seen that there wi
         }
     }
 ``````
+## 4.4 Deploy
+Publishing an app in the iOS app store requires a paid account, and I did not apply for it. So now the only way to publish this app is through connecting to the phone through a computer, which is relatively inefficient.
 
 # 5.Why do I make it?
 
