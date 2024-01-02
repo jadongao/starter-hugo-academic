@@ -58,21 +58,21 @@ Step 4: Keeping the fan on all the time makes the device very power consuming, s
 
 ## 4.2 Testing
 Test case 1: Without turning on the fan, AS510 tests the pressure difference between the inside and outside of the mask during breathing.
-<div align=center> <img src='./test-case-1.jpg' width = 50%/> </div>
+<div align=center> <img src='./test-case-1.jpg' width = 50%> </div>
 The maximum expiratory pressure is about 40pa, and the minimum inspiratory pressure is about -30Pa
 
 Test case 2: Turn on the fan, hold your breath, and test the pressure difference inside and outside the AS510 mask.
-<div align=center> <img src='./test-case-2.jpg' width = 50%/ height = 20%> </div>
+<div align=center> <img src='./test-case-2.jpg' width = 50% height = 20%> </div>
 After the fan stabilizes, the pressure difference between the inside and outside of the mask remains basically at 40Pa.
 
 Test case 3: Turn on the fan and AS510 tests the pressure difference between the inside and outside of the mask during breathing.
-<div align=center> <img src='./test-case-3.jpg' width = 50%/ height = 20%>> </div>
+<div align=center> <img src='./test-case-3.jpg' width = 50% height = 20%> </div>
 The maximum expiratory pressure difference is about 90Pa, and the minimum inspiratory pressure difference is about -10Pa.
 
 It can be seen that the absolute value of the suction pressure difference in Test case 1 has been reduced by 20Pa, which significantly improves the suction resistance. But the absolute value of the exhalation pressure difference increased by 50Pa, and the exhalation resistance increased.
 
-Test case 4: The Arduino microcontroller automatically switches on and off the fan during breathing, and AS510 tests the pressure difference between the inside and outside of the mask during breathing
-<div align=center> <img src='./test-case-4.jpg' width = 50%/ height = 20%>> </div>
+Test case 4: The Arduino microcontroller automatically switches on and off the fan during breathing, and AS510 tests the pressure difference between the inside and outside of the mask during breathing.
+<div align=center> <img src='./test-case-4.jpg' width = 50% height = 20%> </div>
 
 After controlling the fan, when exhaling, the fan was turned off. Compared to Test case 3 (with the fan on), the maximum pressure difference decreased from 90Pa to about 50Pa, and the exhalation resistance decreased, which was basically equivalent to Test case 1 (without the fan);
 
