@@ -31,3 +31,6 @@ url_video: ''
 #slides: example
 ---
 
+My hometown is in Changzhou of Jiangsu province in China, where it produces abundant Moso bamboo, local people choose the straight bamboo with flat and smooth surface, no spot and few joints, to make liuqing bamboo carving, a Chinese traditional art originated from 1500+ years and the intangible culture heritage. My great grandpa, i.e. the father of my grandma is a carving master who founded the Bai school of Liuqing bamboo carving, named after his family surname in last century. My great-aunt and great-uncle also are the skilled bamboo carvers. 
+
+Carvers are skilled in paintings, they draw their imagination on the bamboo surface. Then present their works on the Liuqing, the surface of bamboo with knife. The bamboo skin is in a light color and turns yellowish over time, the bamboo body turn darker after a longer time. Landscapes and poems are gradually presented on the bamboo surface. 
