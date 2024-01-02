@@ -61,11 +61,11 @@ Test case 1: Without turning on the fan, AS510 tests the pressure difference bet
 <div align=center> <img src='./test-case-1.jpg' width = 50%/> </div>
 The maximum expiratory pressure is about 40pa, and the minimum inspiratory pressure is about -30Pa
 
-Test case 2: Turn on the fan, hold your breath, and test the pressure difference inside and outside the AS510 mask
+Test case 2: Turn on the fan, hold your breath, and test the pressure difference inside and outside the AS510 mask.
 <div align=center> <img src='./test-case-2.jpg' width = 50%/ height = 20%> </div>
 After the fan stabilizes, the pressure difference between the inside and outside of the mask remains basically at 40Pa.
 
-Test case 3: Turn on the fan and AS510 tests the pressure difference between the inside and outside of the mask during breathing
+Test case 3: Turn on the fan and AS510 tests the pressure difference between the inside and outside of the mask during breathing.
 <div align=center> <img src='./test-case-3.jpg' width = 50%/ height = 20%>> </div>
 The maximum expiratory pressure difference is about 90Pa, and the minimum inspiratory pressure difference is about -10Pa.
 
