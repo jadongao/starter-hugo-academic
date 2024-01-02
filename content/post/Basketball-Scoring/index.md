@@ -39,7 +39,7 @@ Existing similar systems usually use professional software such as MATLAB, and a
 This App mainly recognizes changes in the basket. If a ball enters the recognized area, the program will display a "ball in" symbol and count the total score. This program requires the use of an open-source computer vision library called OpenCV. First, import the video, then use OpenCV to monitor the basket area, observe the changes in that area, and identify whether the basketball is in the basket.
 In the design, it is necessary to consider using a mobile phone as a platform for image recognition, and the software should be simple and not too resource intensive. The phone should be able to work independently during runtime.
 
-<div align=center> <img src='./overview-basketball.jpg' width = 40%/></div>
+<div align=center> <img src='./overview-basketball.jpg' width = 60%/></div>
 
 Basketball player carry their phones and tripods with them and place them on the side of the basketball court, facing the direction of the basket.
 1. A tripod is used to avoid video shaking.
