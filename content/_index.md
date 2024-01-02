@@ -284,7 +284,7 @@ sections:
     content:
       title: School Team & Club
       filters:
-        folders:
+        folders: 
           - project
         featured_only: true
       #count: 3
