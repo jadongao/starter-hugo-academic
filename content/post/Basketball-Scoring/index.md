@@ -1,6 +1,6 @@
 ---
 # layout:     post 
-# title:      "篮球投篮识别及计分系统"
+# title:      "Basketball Goal Detection App"
 # subtitle:   "basketball2020"
 # date:       2020-02-02
 # author:     "Jadon"
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 		cv::absdiff(hoopBack, hoopCurrent, hoopDiff);   //difference
 		int dilation_size = 2;
 		cv::Mat element = getStructuringElement(MORPH_RECT, Size(2 * dilation_size + 1, 2 * dilation_size + 1), Point(dilation_size, dilation_size));
-		cv::erode(hoopDiff, hoopDiff, element);  //腐蚀操作
+		cv::erode(hoopDiff, hoopDiff, element);  //erode algorithm
 		threshold(hoopDiff, hoopDiff, 5, 255, CV_THRESH_BINARY);
 
 		cv::Mat gray;
@@ -143,7 +143,7 @@ The video images in this area correspond to hoopCurrent, and m and m2 values are
 
     int dilation_size = 2;
     cv::Mat element = getStructuringElement(cv::MORPH_RECT, cv::Size(2 * dilation_size + 1, 2 * dilation_size + 1), cv::Point(dilation_size, dilation_size));
-    cv::erode(hoopDiff, hoopDiff, element);     //腐蚀操作
+    cv::erode(hoopDiff, hoopDiff, element);     //erode algorithm
     threshold(hoopDiff, hoopDiff, 5, 255, CV_THRESH_BINARY);
 
     cv::Mat gray;
@@ -225,5 +225,5 @@ There are two main optimization directions for the next step: 1) Identify the re
 # References：
 [1]Instant OpenCV for iOS (English Edition), Alexander Shishkov、 Kirill Kornyakov<br>
 [2]iOS Application Development with OpenCV 3 (English Edition), Joseph Howse<br>
-[3]https://yq.aliyun.com/articles/64975 阿里云人工智能识别篮球动作视频<br>
-[4]https://blog.csdn.net/qq_38604769/article/details/79305879 opencv3.4与vs2017环境搭配
+[3]https://yq.aliyun.com/articles/64975 Alibaba Cloud AI recognizes basketball action videos<br>
+[4]https://blog.csdn.net/qq_38604769/article/details/79305879 Combining Opencv3.4 with VS2017 Environment
