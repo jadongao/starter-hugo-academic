@@ -1,6 +1,6 @@
 ---
 title: Liuqing Bamboo Carving
-summary: Bai shifeng (my great grandfather) founded the Bai School of Liuqing Bamboo Carving.
+summary: Bai shifeng (my great grandfather) founded the Bai School of Liuqing Bamboo Carving.  
 tags:
   - family
 date: '2022-03-27T00:00:00Z'
