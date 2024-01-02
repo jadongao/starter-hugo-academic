@@ -19,6 +19,32 @@ image:
   caption: ''
 ---
 
+# LEGO Fourier Analyzer
+A LEGO machine that presentation Fourier Analysis 
+
+GitHub Link: (https://github.com/jadongao/fourier-analyzer)
+
+<!--<div align=center> <img src='./overview.jpg' width = 40%/> </div>-->
+
+# 1.What kinds of things is this work?
+
+I made a LEGO machine that presentation Fourier Analysis in a high visual way. This machine replicates a Harmonic Analyzer designed in the late nineteenth century by the physicist Albert Michelson.
+It must be noted that I referred to the video of YouTuber @thoroughfareproduction who created a 5-element analyzer. I redesigned the gearbox to increase the number of elements to 7, and made my own improvements in the design of sinusoid generator gear set to make the operation smoother.
+
+# 2.How to characterize / categorize this work?
+
+LEGO machine, Fourier Analysis, Sinusoid, 3D models, Visual Learning
+
+# 3.Briefly description of this work
+
+# 4.How do I make it?
+
+# 5.Why do I make it?
+
+
+# 6.What's the most meaningful thing of this work?
+
+
 **Abstract:** Basketball players need daily training, but currently they can only manually record the 
 score themselves, which is very inconvenient. This project is a shooting recognition software 
 that can run on mobile phones. Basketball players carry their phones and tripods with them 
