@@ -129,7 +129,7 @@ The Start button can open the phone's camera, capture the video at 30 frames per
 ``````
 Press the Stop button once to freeze the screen image, then press it again to restore the video display
 
-### 4.2.2 Basket recognition area
+### 4.2.2 Basket area recognition
 The video images in this area correspond to hoopCurrent, and m and m2 values are calculated for each frame. Then determine if the basketball is in the basket
 ``````
 - (void)processImage:(cv::Mat &)image {
@@ -159,7 +159,7 @@ The video images in this area correspond to hoopCurrent, and m and m2 values are
 }
 ``````
 
-### 4.2.3  Scoring display
+### 4.2.3  Display Score
 After the basketball is recognized, the score above the phone is+1.
 ``````
     NSString *str1 = [NSString stringWithFormat:@"Scoring  %d",intScore];
@@ -167,7 +167,7 @@ After the basketball is recognized, the score above the phone is+1.
         CV_FONT_HERSHEY_COMPLEX, 1, CV_RGB(255, 255, 255), 2);   //Green color
 ``````
 
-### 4.2.4  Software operation information
+### 4.2.4  Display running information
 For the convenience of software debugging, there are three rectangular shapes in the lower left corner of the phone: hoopBack, hoopCurrent, and hoopDiff. There is also an m-value curve that shows real-time software operation status.
 ``````
     hoopBack.copyTo(inputFrame(cv::Rect(40, 300, rcBallIn.width, rcBallIn.height)));
