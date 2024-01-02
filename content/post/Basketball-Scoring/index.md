@@ -213,12 +213,16 @@ During the first lockdown in 2020, it was impossible for our school's basketball
 
 # 6.What's the most meaningful thing of this work?
 
-After testing, this system can accurately identify the basket and whether or not to score goals.
-1. The first optimization reduced the misjudgment rate from 800% to 60%~100%
-2. The second optimization reduced the misjudgment rate from 60% to 100% to 49%
-3. Three optimizations, reducing misjudgment rate from 49% to 17%
-In the design, it is necessary to consider using a mobile phone as a platform for image recognition. The software is simple and can run independently. Basketball enthusiasts use their mobile phones and tripods to efficiently track their shooting data, thereby improving their basketball skills.
-There are two main optimization directions for the next step: 1) Identify the rebounds, penalty area, and three-point line in the field, which can distinguish between two and three point goals; 2) Add autonomous training for the program to achieve machine learning.
+After testing, this system can accurately identify the basket and whether or not to score goals. 
+The optimization reduced the misjudgment rate from 60% to 100% to 17%
+
+In the design, it is necessary to consider using a mobile phone as a platform for image recognition. The software is simple and can run independently. Basketball player use their mobile phones and tripods to efficiently track their shooting data, thereby improving their basketball skills.
+
+There are two main optimization directions for the next step: 
+
+(1) Identify the rebounds, penalty area, and three-point line in the field, which can distinguish between two and three point goals;
+
+(2) Add autonomous training for the program to achieve machine learning.
 
 
 
