@@ -109,16 +109,101 @@ The ball is above and below the basket, without the words "ball in!!!" appearing
 
 
 ## 4.2 Using OpenCV on iOS
-1. Button
+### 4.2.1 Button
 The Start button can open the phone's camera, capture the video at 30 frames per second, and display it on the phone screen. Each press of the Start button can also save the basket recognition area to HoopBack.
-Press the Stop button once to freeze the screen image, then press it again to restore the video display
-2. Basket recognition area
-The video images in this area correspond to hoopCurrent, and m and m2 values are calculated for each frame. Then determine if the basketball is in the basket
-3. Scoring display
-After the basketball is recognized, the score above the phone is+1.
-4. Software operation information
-For the convenience of software debugging, there are three rectangular shapes in the lower left corner of the phone: hoopBack, hoopCurrent, and hoopDiff. There is also an m-value curve that shows real-time software operation status.
+``````
+- (IBAction)startCaptureButtonPressed:(id)sender {
+    [videoCamera start];
+    isCapturing = YES;
+    imageCount = 0;
+}
 
+- (IBAction)ClearScoreButtonPressed:(id)sender {
+    intScore = 0;
+}
+
+- (IBAction)stopCaptureButtonPressed:(id)sender {
+    //[videoCamera stop];
+    isCapturing = !isCapturing;
+}
+``````
+Press the Stop button once to freeze the screen image, then press it again to restore the video display
+
+### 4.2.2 Basket recognition area
+The video images in this area correspond to hoopCurrent, and m and m2 values are calculated for each frame. Then determine if the basketball is in the basket
+``````
+- (void)processImage:(cv::Mat &)image {
+    // Do some OpenCV processing with the image
+    cv::Mat inputFrame = image.clone();
+
+    cv::Rect rcBallIn(150, 110, 55, 60);
+    hoopBack = inputFrame(rcBallIn).clone();   //backup
+    hoopCurrent = inputFrame(rcBallIn).clone();  //current
+    cv::absdiff(hoopBack, hoopCurrent, hoopDiff);   //difference
+
+    int dilation_size = 2;
+    cv::Mat element = getStructuringElement(cv::MORPH_RECT, cv::Size(2 * dilation_size + 1, 2 * dilation_size + 1), cv::Point(dilation_size, dilation_size));
+    cv::erode(hoopDiff, hoopDiff, element);     //腐蚀操作
+    threshold(hoopDiff, hoopDiff, 5, 255, CV_THRESH_BINARY);
+
+    cv::Mat gray;
+    cvtColor(hoopDiff, gray, CV_RGB2GRAY);
+    double m = mean(gray)[0];
+
+    if (m > 10)
+    {
+            intScore ++;
+            putText(inputFrame, "Ball in!!!", cv::Point(40, 40),
+                CV_FONT_HERSHEY_COMPLEX, 1, CV_RGB(255, 255, 255), 2);   //Green color
+    }
+}
+``````
+
+### 4.2.3  Scoring display
+After the basketball is recognized, the score above the phone is+1.
+``````
+    NSString *str1 = [NSString stringWithFormat:@"Scoring  %d",intScore];
+    putText(inputFrame, [str1 UTF8String], cv::Point(250, 40),
+        CV_FONT_HERSHEY_COMPLEX, 1, CV_RGB(255, 255, 255), 2);   //Green color
+``````
+
+### 4.2.4  Software operation information
+For the convenience of software debugging, there are three rectangular shapes in the lower left corner of the phone: hoopBack, hoopCurrent, and hoopDiff. There is also an m-value curve that shows real-time software operation status.
+``````
+    hoopBack.copyTo(inputFrame(cv::Rect(40, 300, rcBallIn.width, rcBallIn.height)));
+    hoopCurrent.copyTo(inputFrame(cv::Rect(100, 300, rcBallIn.width, rcBallIn.height)));
+    hoopDiff.copyTo(inputFrame(cv::Rect(160, 300, rcBallIn.width, rcBallIn.height)));
+
+    int x = 0;
+    int y = 300 - ((int)m_array[m_tail]) %300 ;
+    cv::Point pt1 = cv::Point(x, y);    //for(int i=((m_tail+1)%200); i==m_tail; i++) {
+    for(int i=1; i<200; i++)  {
+        x = i;
+        y = 300 - ((int)m_array[(m_tail+i)%200]) %300 ;
+        cv::Point pt2 = cv::Point(x, y);
+        
+        cv::line(inputFrame, pt1, pt2, CV_RGB(0, 255, 0), 1);
+        pt1 = pt2;
+    }
+``````
+
+## 4.3 Debug and optimization
+**Problem:** Score is duplicated of multiple frames for a single goal
+<div align=center> <img src='./score-duplicated.jpg' width = 60%/></div>
+Draw the m value of 100 frames as a graph line, and it can be seen that there will be multiple frames exceeding the "judgment criteria" when scoring a goal, resulting in one goal being counted several points.
+
+**Solution:** Only score when the first m value exceeds the "judgment condition"
+``````
+    if (m > 10)
+    {
+        //Determine if the m value has changed and avoid scoring multiple times in one goal
+        if (m_array[(m_tail-1 + 200)%200] <= 10) {
+            intScore ++;
+            putText(inputFrame, "Ball in!!!", cv::Point(40, 40),
+                CV_FONT_HERSHEY_COMPLEX, 1, CV_RGB(255, 255, 255), 2);   //Green color
+        }
+    }
+``````
 
 # 5.Why do I make it?
 
