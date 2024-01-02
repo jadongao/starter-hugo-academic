@@ -49,11 +49,11 @@ Basketball player carry their phones and tripods with them and place them on the
 
 ## 4.1 Learn OpenCV on a Windows computer
 **Idea:** 
-1) Mark the rectangular area rcHoop of the basket;
-2) Back up the hoopBack in the basket area of the first frame of the video;
-3) Read the hoopCurrent of the basket area in the current frame;
-4) Compare the backup and current region, obtain hoopDiff, and calculate the mean m;
-5) Use the value of m to determine whether to use the basketball to enter the basket area.
+1) Mark the rectangular area *rcHoop* of the basket;
+2) Back up the *hoopBack* in the basket area of the first frame of the video;
+3) Read the *hoopCurrent* of the basket area in the current frame;
+4) Compare the backup and current region, obtain *hoopDiff*, and calculate the mean *m*;
+5) Use the value of *m* to determine whether to use the basketball to enter the basket area.
 
 ``````
 #include <iostream>
