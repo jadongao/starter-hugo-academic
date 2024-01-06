@@ -19,7 +19,7 @@ image:
 ---
 
 # LEGO Fourier Analyzer
-A LEGO machine that presentation Fourier Analysis 
+A LEGO machine that presents Fourier Analysis 
 
 GitHub Link: (https://github.com/jadongao/fourier-analyzer)
 
@@ -27,7 +27,7 @@ GitHub Link: (https://github.com/jadongao/fourier-analyzer)
 
 # 1.What kinds of things is this work?
 
-I made a LEGO machine that presentation Fourier Analysis in a high visual way. This machine replicates a Harmonic Analyzer designed in the late nineteenth century by the physicist Albert Michelson.
+I made a LEGO machine that presents Fourier Analysis in a high visual way. This machine replicates a Harmonic Analyzer designed in the late nineteenth century by the physicist Albert Michelson.
 It must be noted that I referred to the video of YouTuber @thoroughfareproduction who created a 5-element analyzer. I redesigned the gearbox to increase the number of elements to 7, and made my own improvements in the design of sinusoid generator gear set to make the operation smoother.
 
 # 2.How to characterize / categorize this work?
