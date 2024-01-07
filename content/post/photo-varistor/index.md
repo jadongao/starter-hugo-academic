@@ -10,14 +10,6 @@ image:
   caption: ''
 ---
 
-**Abstract:** At present, there has been research on the lateral bipolar photoresistance effect of 
-various semiconductor materials, which suggests that some semiconductor materials have the 
-potential to be used to prepare a new type of photo-varistor based on the lateral bipolar 
-photoresistance effect. However, further research and optimization of the production process of 
-this type of photo-varistor have not been conducted. This project conducted in-depth research on 
-the production process of this type of photo-varistor. Firstly, I conducted a series of experiments 
-and selected two semiconductor materials with good linearity: one was $\rm Ag/SiO_{2}/Si$ P-type 
-silicon corroded for 10 minutes, and the other was $\rm Ag/SiO_{2}/Si$ N-type silicon corroded for 5 
-minutes. Subsequently, I combine these silicon chips with 3D printing components to create two 
-photo-varistors. Furthermore, I will use the Arduino circuit to monitorthe voltage of photo-varistors sensor. This project contributes to the application and commercialization of the photo-varistor based on lateral bipolar photoresistance effect.<br>
+**Abstract:** Previous studies have investigated the bipolar resistance effect in various semiconductor materials, suggesting the potential for developing a new type of photoresistive device based on this effect. However, further research and optimization of the fabrication process for such photoresistive devices are still needed. This project focuses on the in-depth study of the fabrication process for this type of photoresistive device. Firstly, a series of experiments were conducted to select two semiconductor materials with good linearity: one is P-type silicon ($\rm Ag/SiO_{2}/Si$) corroded for 10 minutes, and the other is N-type silicon ($\rm Ag/SiO_{2}/Si$) corroded for 5 minutes. Subsequently, other components were fabricated using 3D printing technology, and these components were combined with the selected silicon pieces to create resistors with different sensitivities. Furthermore, an Arduino circuit was used to transform the resistors into sensors, which were then applied to monitor small displacements. This project contributes to the industrial application and commercialization of the bipolar resistance effect in semiconductor materials.
+
 **Keywords:** lateral bipolar photoresistance effect, photo-varistor, sensor
