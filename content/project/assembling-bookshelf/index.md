@@ -3,7 +3,7 @@ title: Assembling bookshelf
 summary: 
 tags:
   - family
-date: '2018-11-27T00:00:00Z'
+date: '2017-03-01T00:00:00Z'
 featured: 
 
 # Optional external URL for project (replaces project detail page).
