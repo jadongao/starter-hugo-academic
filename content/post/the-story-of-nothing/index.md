@@ -22,10 +22,10 @@ projects:
 #<iframe src="https://www.youtube.com/embed/G4UNrR3NzR4" frameborder="0" allowfullscreen></iframe>
 #[![IMAGE ALT TEXT](http://img.youtube.com/vi/G4UNrR3NzR4/0.jpg)](https://www.youtube.com/embed/G4UNrR3NzR4 "CameraMaster")
 ---
-<iframe width=320 height=220 src="https://www.youtube.com/embed/G4UNrR3NzR4" frameborder="0" allowfullscreen></iframe>
-
 **What makes up nothing?**
 What makes up the empty space outside of the Earth, above the atmosphere, and fills most of the universe? For centuries, this problem has been puzzling physicists, confronting them to develop more and more satisfying theories to describe reality.  <!--more-->
+<iframe width=320 height=220 src="https://www.youtube.com/embed/G4UNrR3NzR4" frameborder="0" allowfullscreen></iframe>
+
 After all, how do we define the intangible space we live in after we take out all the air, the furniture, the people, and anything we usually call mass? How do we define what we usually call a vacuum? Is it simply made of nothing, or is there something inside? On the surface, this question is extremely paradoxical and self-contradicting. Isn’t nothing, just made of nothing? 
 Or is it? The straightforward answer to this question is: we don’t know yet, at least not exactly. There have been many efforts made to develop a satisfying theory of reality: how the universe starts, how black holes explode, how light moves, or how supernovas expand. Yet after all, strangely, when we ask ourselves the simple question: well, what is nothing? We still cannot answer. I’m no physicist, but today I’ll share with you what I found not from the complexities of the math equations, but from retracing the footsteps of our physical understanding of the vacuum. By looking at how people came up with new explanations, how they confronted themselves with nature’s paradoxes, we can all perhaps gain some insight using this story of “nothing” on how not knowing something itself contains great value. 
 
