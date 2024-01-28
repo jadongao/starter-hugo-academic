@@ -3,7 +3,7 @@ title: Actor, Drama Club
 summary: Play Nick in the play “Cut”; enjoyed every second on set communicating & coming up with creative ways to perform the script
 tags:
   - club
-date: '2022-10-27T00:00:00Z'
+date: '2023-10-27T00:00:00Z'
 featured: true
 
 # Optional external URL for project (replaces project detail page).
