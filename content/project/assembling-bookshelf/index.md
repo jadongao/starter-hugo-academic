@@ -32,8 +32,11 @@ url_video: ''
 ---
 
 Assembling bookshelf
+
 Repairing the igniter of the cooker 
+
 Repairing the desk lamp 
+
 Repairing the mobile phone charger
 
 
