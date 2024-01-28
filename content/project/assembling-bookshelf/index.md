@@ -1,5 +1,5 @@
 ---
-title: Assembling bookshelf
+title: Learning by Doing
 summary: 
 tags:
   - family
