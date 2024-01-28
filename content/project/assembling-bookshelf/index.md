@@ -31,11 +31,11 @@ url_video: ''
 #slides: example
 ---
 
-Assembling bookshelf
+Assembling bookshelf, 
 
-Repairing the igniter of the cooker 
+Repairing the igniter of the cooker, 
 
-Repairing the desk lamp 
+Repairing the desk lamp, 
 
 Repairing the mobile phone charger
 
