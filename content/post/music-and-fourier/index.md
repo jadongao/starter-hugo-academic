@@ -18,9 +18,11 @@ image:
   caption: ''
 ---
 
-Imagine you have a friend who’s extremely talented at music, and he challenges you to the following: you are given a musical chord, which is basically a few notes played at the same time, like this: (chord). And all you need to do is find out what the individual notes are, in this case it’s the following: (music). 
+Imagine you have a friend who’s extremely talented at music, and he challenges you to the following: you are given a musical chord, which is basically a few notes played at the same time, like this: (chord). 
+And all you need to do is find out what the individual notes are, in this case it’s the following: (music). 
 
 <!--more-->
+<iframe width=320 height=220 src="https://www.youtube.com/embed/tVhKlk4RXkk" frameborder="0" allowfullscreen></iframe>
 
 There’s just one issue, you know nothing about music. But, luckily for you, there’s one tool that can save you from losing this challenge: **the Fourier Transform** (letters). 
 
