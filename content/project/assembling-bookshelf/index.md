@@ -1,4 +1,4 @@
----
+![image](https://github.com/jadongao/starter-hugo-academic/assets/105255363/2b84a681-0a65-4381-876c-2e1ff8f509d0)---
 title: Learning by Doing
 summary: 
 tags:
@@ -30,4 +30,10 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
+Assembling bookshelf
+Repairing the igniter of the cooker 
+Repairing the desk lamp 
+Repairing the mobile phone charger
+
 
