@@ -19,7 +19,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'Repairing the Charger for a Neighbor-Mingjun Gao.pdf'
+url_pdf: 'Repairing.pdf'
 url_slides: ''
 url_video: ''
 
