@@ -3,7 +3,7 @@ title: Thinking
 summary: 
 tags:
   - family
-date: '2017-03-02T00:00:00Z'
+date: '2017-02-28T00:00:00Z'
 featured: 
 
 # Optional external URL for project (replaces project detail page).
