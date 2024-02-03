@@ -28,7 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Explore the traditional culture, like the antient buildings, the traditional foods and the Shanghainese Communicate by phone with the bosses of the stores in Shanghai to understand their difficulties of the businesses during the convid-19.
