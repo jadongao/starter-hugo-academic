@@ -31,3 +31,5 @@ url_video: ''
 #slides: example
 ---
 
+Play Nick in the play “Cut”; enjoyed every second on set communicating & coming up with creative ways to perform the script
+
