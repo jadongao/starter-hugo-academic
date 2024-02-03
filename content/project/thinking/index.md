@@ -30,4 +30,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+When I think about a problem, I like to write down my calculations on a whiteboard or a glass window.
+
+
+
+
 
