@@ -234,7 +234,7 @@ sections:
   - block: markdown
     #id: tutorial
     content:
-      title: Moderator of Physics Sub-world
+      title: Moderator of Physics
       subtitle: 
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
