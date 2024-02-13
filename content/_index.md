@@ -18,7 +18,8 @@ sections:
       title: 
       subtitle: ''
       text: |-
-        {{< gallery album="activity" >}}
+        ![quark-and-gluon-waves](uploads/whiteboard.jpg)
+      #  {{< gallery album="activity" >}}
     design:
       columns: '1'
 
