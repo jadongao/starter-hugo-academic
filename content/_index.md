@@ -245,6 +245,7 @@ sections:
       #    - Problem sets: [1](), 
       #    - Very rough section notes: [1](),[Final exam]()
     design:
+      view: compact
       columns: '2'
 
 
