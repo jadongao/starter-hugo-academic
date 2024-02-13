@@ -244,9 +244,8 @@ sections:
       # In Autumn 2022, I was the TA for Stanford's introductory quantum field theory class, taught by [Prof. Bernhard Mistlberger](https://sites.google.com/view/bernhardmistlberger/start). We overhauled the course and produced new problem sets, which we believe strike a good balance between traditional particle physics applications, and connections to other fields. I also taught weekly sections which laid out the big picture and showed tricks for doing the problems efficiently. 
       #    - Problem sets: [1](), 
       #    - Very rough section notes: [1](),[Final exam]()
-    design:
-      view: compact
-      columns: '2'
+    #design:
+    #  columns: '2'
 
 
   # - block: features
