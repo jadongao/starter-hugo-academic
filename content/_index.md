@@ -180,7 +180,7 @@ sections:
   - block: experience
     id: tutorial
     content:
-      title: Tutorial
+      title: Tutorial @Schoolhouse
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -235,7 +235,7 @@ sections:
   - block: markdown
     #id: tutorial
     content:
-      title: Moderator of Physics
+      title: Moderator of Physics @Schoolhouse
       subtitle: 
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
