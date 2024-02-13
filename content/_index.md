@@ -241,6 +241,7 @@ sections:
       date_format: Jan 2006
       text: |2-
           Initiated “Weekly Challenge Problems” Project. These puzzles are designed to be interesting problems that are unclear at first sight. But they will be neat and fun to think about.
+          ![quark-and-gluon-waves](uploads/moderator.jpg)
           - [Schoolhouse Physics Subworld Help Sheet](uploads/Moderator-of-Schoolhouse-Physics-Subworld.pdf)
       # In Autumn 2022, I was the TA for Stanford's introductory quantum field theory class, taught by [Prof. Bernhard Mistlberger](https://sites.google.com/view/bernhardmistlberger/start). We overhauled the course and produced new problem sets, which we believe strike a good balance between traditional particle physics applications, and connections to other fields. I also taught weekly sections which laid out the big picture and showed tricks for doing the problems efficiently. 
       #    - Problem sets: [1](), 
