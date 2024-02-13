@@ -244,7 +244,7 @@ sections:
           <tr>
               <td><p>Initiated “Weekly Challenge Problems” Project. These puzzles are designed to be interesting problems that are unclear at first sight. But they will be neat and fun to think about.</p>
               <p><a href="uploads/Moderator-of-Schoolhouse-Physics-Subworld.pdf">- Schoolhouse Physics Subworld Help Sheet</a></p></td>
-              <td><img src="uploads/moderator.jpg" style="zoom:100%"></td>
+              <td><a href="https://schoolhouse.world/w/physics"><img src="uploads/moderator.jpg" style="zoom:100%"></a></td>
           </tr>
           </table>
 
