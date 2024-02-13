@@ -19,6 +19,7 @@ sections:
       subtitle: ''
       text: |-
         ![quark-and-gluon-waves](uploads/whiteboard.jpg)
+        ![quark-and-gluon-waves](uploads/20210514194812401.gif)
       #  {{< gallery album="activity" >}}
     design:
       columns: '1'
