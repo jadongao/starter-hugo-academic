@@ -242,10 +242,9 @@ sections:
       text: |2-
           <table border="0">
           <tr>
-              <td>Initiated “Weekly Challenge Problems” Project. These puzzles are designed to be interesting problems that are unclear at first sight. But they will be neat and fun to think about.
-              - [Schoolhouse Physics Subworld Help Sheet](uploads/Moderator-of-Schoolhouse-Physics-Subworld.pdf)</td>
+              <td><p>Initiated “Weekly Challenge Problems” Project. These puzzles are designed to be interesting problems that are unclear at first sight. But they will be neat and fun to think about.</p>
+              <p>- [Schoolhouse Physics Subworld Help Sheet](uploads/Moderator-of-Schoolhouse-Physics-Subworld.pdf)</p></td>
               <td>![quark-and-gluon-waves](uploads/moderator.jpg)</td>
-              <td><b style="font-size:30px">Invention</b></td>
           </tr>
           </table>
 
