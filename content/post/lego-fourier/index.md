@@ -19,11 +19,13 @@ image:
 ---
 
 # LEGO Fourier Analyzer
-A LEGO machine that presents Fourier Analysis 
+A LEGO machine that can do Fourier Analysis
 
 GitHub Link: (https://github.com/jadongao/fourier-analyzer)
 
-<div align=center> <img src='./overview with label.jpg' width = 40%/> </div>
+<iframe width=320 height=220 src="https://www.youtube.com/embed/BzMKB4JAS-Q" frameborder="0" allowfullscreen></iframe>
+<!--Video Link: https://youtu.be/BzMKB4JAS-Q-->
+<!--<div align=center> <img src='./overview with label.jpg' width = 40%/> </div>-->
 
 # 1. What kind of thing is this work?
 
