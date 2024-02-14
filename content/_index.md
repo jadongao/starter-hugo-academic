@@ -12,24 +12,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: features
-    content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Unicorns
-          description: I have a pet unicorn.
-          icon: 🦄
-          icon_pack: emoji
-        - name: Surfing
-          description: 90%
-          icon: schoolhouse
-          icon_pack: custom
 
   - block: markdown
     content:
