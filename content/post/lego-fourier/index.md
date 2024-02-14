@@ -34,7 +34,7 @@ I was instantly attracted by the harmonic analyzer made by Albert Michelson the 
 # 2. Overview of the Analyzer
 Simply put, the analyzer has to achieve two things: decompose and synthesize. Since the two have parallel math equations, I only need to consider synthesis. The motor and the gear set separate one frequency into seven. Each of these is then connected to an amplitude bar. Each bar is then connected with one spring. The linear spring forces add together at the summing bar, representing the total displacement shown on the resulting graph.
 
-<div align=center> <img src='./math%20to%20machine.jpg' width = 50%> </div>
+<div align=center> <img src='./math%20to%20machine.jpg' width = 70%> </div>
 
 ## Example
 Taking Fourier synthesis (7 sinusoids element) as an example: 
@@ -54,7 +54,7 @@ Using this LEGO Fourier Analyzer, the output function graph is as follows (Test 
 Below is a brief introduction of every part:
 
 ### 3.1 Frequency Generator 
-<div align=center> <img src='./frequency%20generator%20gear%20set.jpg' width = 70%/> </div>
+<div align=center> <img src='./frequency%20generator%20gear%20set.jpg' width = 50%/> </div>
 The frequency generator is a gearbox with seven output shafts of different frequencies. 
 
 ### 3.2 Sinusoid Generator
@@ -70,6 +70,8 @@ The amplitude of each sinusoidal component can be adjusted by modifying the conn
 ### 3.4 Summing Lever
  
 The summing lever at the top of the machine adds together the weighted sinusoids. The result is: 
+
+
  
 ### 3.5 Platen and Plumb
  
