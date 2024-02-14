@@ -40,13 +40,13 @@ Simply put, the analyzer has to achieve two things: decompose and synthesize. Si
 Taking Fourier synthesis (7 sinusoids element) as an example: 
 
 <!--![sinusoid function graph of computer](./computer%20function%20graph.jpg) -->
-<div align=center> <img src='./computer%20function%20graph.jpg'> </div>
+<div align=center> <img src='./computer%20function%20graph.jpg' width = 50%> </div>
 
 where $a_n$ is +1, -1, +1, -1, +1, -1, +1.
 f(x)= sin(x)-sin(2x)+sin(3x)-sin(4x)+sin(5x)-sin(6x)+sin(7x)
 Using this LEGO Fourier Analyzer, the output function graph is as follows (Test date: Aug. 10, 2023), which is very close to the graph drawn by the computer.
 
-<div align=center> <img src='./analyzer%20function%20graph.jpg' width = 50%> </div>
+<div align=center> <img src='./analyzer%20function%20graph.jpg' width = 80%> </div>
 
 
 # 3. Structure of the Analyzer
