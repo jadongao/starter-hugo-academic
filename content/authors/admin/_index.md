@@ -86,12 +86,12 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
   - icon: 🦄
     icon_pack: emoji
     link: https://schoolhouse.world/u/155443
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
   - icon: schoolhouse
     icon_pack: custom
     link: https://schoolhouse.world/u/155443
