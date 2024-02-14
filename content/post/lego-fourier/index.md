@@ -25,21 +25,16 @@ GitHub Link: (https://github.com/jadongao/fourier-analyzer)
 
 <iframe width=320 height=220 src="https://www.youtube.com/embed/BzMKB4JAS-Q" frameborder="0" allowfullscreen></iframe>
 <!--Video Link: https://youtu.be/BzMKB4JAS-Q-->
-<!--<div align=center> <img src='./overview with label.jpg' width = 40%/> </div>-->
+<!--<div align=center> <img src='./overview%20with%20label.jpg' width = 40%/> </div>-->
 
-# 1. What kind of thing is this work?
+# 1. Why did I make it? Because it’s so coool!
+I was instantly attracted by the harmonic analyzer made by Albert Michelson the moment I saw it and decided to recreate it right then. With the aid of other LEGO lovers online and some other makers who’ve also tried the same thing, I built this 7-frequency Fourier Analyzer (I prefer this name over the “harmonic analyzer”). Aside from being cool, it was an excellent tool for demonstrating what Fourier Analysis is to others. 
 
-I made a LEGO machine that presents Fourier Analysis in a highly visual way. This machine replicates a Harmonic Analyzer designed in the late nineteenth century by the physicist Albert Michelson. I must clarify that I referred to the video of YouTuber @thoroughfareproduction, who created a 5-element analyzer. I redesigned the gearbox to increase the number of elements to 7 and made improvements in the design of the sinusoid generator gear set to make the operation smoother.
 
-# 2. How to characterize/categorize this work?
+# 2. Overview of the Analyzer
+Simply put, the analyzer has to achieve two things: decompose and synthesize. Since the two have parallel math equations, I only need to consider synthesis. The motor and the gear set separate one frequency into seven. Each of these is then connected to an amplitude bar. Each bar is then connected with one spring. The linear spring forces add together at the summing bar, representing the total displacement shown on the resulting graph.
 
-LEGO machine, Fourier Analysis, Sinusoid, 3D models, Visual Learning
-
-# 3. Briefly description of this work
-
-A Fourier analyzer can carry out two related tasks: add weighted sines or cosines to produce a function graph and perform the inverse operation of decomposing a given function graph into its constituent sinusoids. The addition of sinusoids is called Fourier synthesis, and the inverse operation is called Fourier Analysis. This type of machine is an analog computer that directly processes function graphs without the digital computer, which is almost considered essential by people today. It does not require electricity and can be operated by hand.
-
-The capability of the Fourier analyzer depends on the number of elements. I tried to increase the number of elements to 7, while Albert Michelson's copper analyzer once achieved 80 elements.
+<div align=center> <img src='./math%20to%20machine.jpg'> </div>
 
 ## Example of Fourier analysis
 
