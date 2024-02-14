@@ -23,7 +23,7 @@ A LEGO machine that presents Fourier Analysis
 
 GitHub Link: (https://github.com/jadongao/fourier-analyzer)
 
-<div align=center> <img src='./overview.jpg' width = 40%/> </div>
+<div align=center> <img src='./overview with label.jpg' width = 40%/> </div>
 
 # 1. What kind of thing is this work?
 
