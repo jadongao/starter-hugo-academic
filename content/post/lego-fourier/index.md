@@ -111,9 +111,9 @@ But aside from that, it’s more than exciting to see an actual graph drawn with
 When making this machine, I also traced the history of Fourier Analysis. I had a chance to communicate with these masters during this production process, and I felt their imaginative ideas in the era without electronic computers.
  
 ## References
-[1] Fourier Transformation: A LEGO Machine that does Math, youtube.com/@thoroughfareproduction, https://www.youtube.com/watch?v=NaWyCitZFXI&t=515s
-[2] Albert Michelson's Harmonic Analyzer, Bill Hammack, 
-https://www.engineerguy.com/fourier/
+[1] Fourier Transformation: A LEGO Machine that does Math, youtube.com/@thoroughfareproduction, (https://www.youtube.com/watch?v=NaWyCitZFXI&t=515s)
+
+[2] Albert Michelson's Harmonic Analyzer, Bill Hammack, (https://www.engineerguy.com/fourier/)
 
 <!--
 <table border="0">
