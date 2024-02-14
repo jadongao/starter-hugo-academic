@@ -34,7 +34,7 @@ I was instantly attracted by the harmonic analyzer made by Albert Michelson the 
 # 2. Overview of the Analyzer
 Simply put, the analyzer has to achieve two things: decompose and synthesize. Since the two have parallel math equations, I only need to consider synthesis. The motor and the gear set separate one frequency into seven. Each of these is then connected to an amplitude bar. Each bar is then connected with one spring. The linear spring forces add together at the summing bar, representing the total displacement shown on the resulting graph.
 
-<div align=center> <img src='./math%20to%20machine.jpg'> </div>
+<div align=center> <img src='./math%20to%20machine.jpg' width = 50%> </div>
 
 ## Example of Fourier analysis
 
@@ -49,13 +49,13 @@ F (x)= -sin(x)+sin(2x)-sin(3x)+sin(4x)-sin(5x)
 
 Using this LEGO Fourier Analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
 
-<div align=center> <img src='./analyzer%20function%20graph.jpg' width = 50%/> </div>
+<div align=center> <img src='./analyzer%20function%20graph.jpg' width = 50%> </div>
 
 ## Parts of analyzer
 This LEGO machine consists of the following parts:
 
 <!--![parts of Analyzer](./overview%20with%20label.jpg)  -->
-<div align=center> <img src='./overview%20with%20label.jpg' width = 80%/> </div>
+<div align=center> <img src='./overview%20with%20label.jpg' width = 80%> </div>
 
 ### 3.1 Frequency generator
 The frequency generator is a gearbox with seven output shafts of different frequencies. The rotational speeds on the seven axes are 1x, 2x, 3x, 4x, 5x, 6x, and 7x, respectively.
