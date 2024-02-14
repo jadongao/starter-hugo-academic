@@ -30,6 +30,14 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+        - name: Unicorns
+          description: I have a pet unicorn.
+          icon: 🦄
+          icon_pack: emoji
+        - name: Surfing
+          description: 90%
+          icon: schoolhouse
+          icon_pack: custom
 
   - block: markdown
     content:
