@@ -16,6 +16,12 @@ tags:
 image:
   placement: 2
   caption: ''
+
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: 'https://youtu.be/BzMKB4JAS-Q'
+
 ---
 
 # LEGO Fourier Analyzer
