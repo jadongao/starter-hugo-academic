@@ -16,6 +16,12 @@ reading_time: false
 image:
   placement: 2
   caption: ''
+  
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: 'https://youtu.be/tVhKlk4RXkk'
+
 ---
 
 Imagine you have a friend who’s extremely talented at music, and he challenges you to the following: you are given a musical chord, which is basically a few notes played at the same time, like this: (chord). 
