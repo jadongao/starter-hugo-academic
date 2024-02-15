@@ -295,15 +295,31 @@ sections:
   - block: collection
     id: club
     content:
-      title: School Team & Club
+      title: Club
       filters:
         folders: 
           - project
         featured_only: true
+        tag: club
       #count: 3
     design:
       columns: '2'
       view: showcase
+    
+  - block: collection
+    id: team
+    content:
+      title: Varsity Team
+      filters:
+        folders: 
+          - project
+        featured_only: true
+        tag: team
+      #count: 3
+    design:
+      columns: '2'
+      view: showcase
+    
     #   title: Projects
     #   sgs: []
     #     # Exclude content with these tags
