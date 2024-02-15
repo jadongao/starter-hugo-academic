@@ -17,8 +17,14 @@ tags:
 image:
   placement: 2
   caption: ''
+
 projects:
-  - liuqing-bamboo-carving
+ 
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: 'https://youtu.be/G4UNrR3NzR4'
+
 #<iframe src="https://www.youtube.com/embed/G4UNrR3NzR4" frameborder="0" allowfullscreen></iframe>
 #[![IMAGE ALT TEXT](http://img.youtube.com/vi/G4UNrR3NzR4/0.jpg)](https://www.youtube.com/embed/G4UNrR3NzR4 "CameraMaster")
 ---
