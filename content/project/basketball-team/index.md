@@ -31,3 +31,5 @@ url_video: 'https://youtu.be/9BTGrPL6LKE'
 #slides: example
 ---
 
+🥈🥈Played 8+ years; assisted coach's training; stayed after each training to help freshman players enhance their skills; made lifelong friends
+
